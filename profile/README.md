@@ -1,6 +1,9 @@
 ## 광운대학교 멋쟁이사자처럼
 
 <br>
+<div align="center">
+  <img src="https://velog.velcdn.com/images/chs98412/post/23d70749-cf0c-4c62-9d88-21a8c0215ce7/image.jpg" width="500">
+</div>
 
 ## 🙂 Collaborator
 <p>
