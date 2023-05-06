@@ -6,19 +6,24 @@
 </div>
 
 ## 🙂 Collaborator
-<p>
-<a href="https://github.com/chs98412">
-  <img src="https://github.com/chs98412.png" width="100">
-</a>
-<a href="https://github.com/offbeat24">
-  <img src="https://github.com/offbeat24.png" width="100">
-</a>
-<a href="https://github.com/ekdms5566">
-  <img src="https://github.com/ekdms5566.png" width="100">
-</a>
-<a href="https://github.com/Hosung99">
-  <img src="https://github.com/Hosung99.png" width="100">
-</a>
-</p>
-
+<div align='center'>
+  <p>
+  <a href="https://github.com/chs98412">
+    <img src="https://github.com/chs98412.png" width="100">
+  </a>
+  <a href="https://github.com/offbeat24">
+    <img src="https://github.com/offbeat24.png" width="100">
+  </a>
+  <a href="https://github.com/ekdms5566">
+    <img src="https://github.com/ekdms5566.png" width="100">
+  </a>
+  <a href="https://github.com/Hosung99">
+    <img src="https://github.com/Hosung99.png" width="100">
+  </a>
+   <a href="https://github.com/Chaerim0626">
+    <img src="https://github.com/Chaerim0626.png" width="100">
+  </a>
+  </p>
+  
+</div>
 <br> 
